@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+**/dataset/
+**/embeddings/
+.env
+__pycache__/
